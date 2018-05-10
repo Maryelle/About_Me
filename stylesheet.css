@@ -1,0 +1,172 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h3 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: rgba(19,218,229,1.00);
+	font-size: 45px;
+	letter-spacing: 0.25em;
+	align-content: center;
+}
+
+h2 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: rgba(46,18,255,1.00);
+	font-size: 80px;
+	letter-spacing: 0.3em;
+	align-content: center;
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	transform: translate (-50%, -50%);
+	line-height: 70px;
+	width: 833px;
+}
+
+.two {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: rgba(46,18,255,1.00);
+	font-size: 60px;
+	letter-spacing: 0.3em;
+	align-content: center;
+	position: absolute;
+	top: 150px;
+	left: 135px;
+	transform: translate (-50%, -50%);
+	line-height: 100px;
+	width: 833px;
+}
+
+.three {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: rgba(133,149,255,1.00);
+	font-size: 40px;
+	letter-spacing: 0.3em;
+	align-content: center;
+	position: absolute;
+	top: 440px;
+	left: 500px;
+	transform: translate (-50%, -50%);
+	line-height: 50px;
+	width: 833px;
+}
+
+body {
+	font-size: 18px;
+	max-width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	background-color: rgba(216,236,243,1.00);
+	line-height: 30px;
+}
+
+.hero {
+	background-image: url(images/ws_Pretty_Snowy_Mountains_852x480.jpg);
+	padding: 10px;
+	background-size: cover;
+	width: 1200px;
+	height: auto;
+	align-content: center;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+	padding: 10px;
+	background-size: cover;
+	width: 1200px;
+	height: auto;
+	align-content: center;
+}
+
+.full_page {
+	text-align: center;
+	width: 1200px;
+	margin: auto;
+	margin-top: 0;
+	border: 10px;
+	text-decoration: none;
+}
+
+
+.site-nav {
+	width: auto;
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu {
+	text-decoration: none;
+	text-decoration-color: black;
+	list-style: none;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	display: inline-block;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	text-decoration-color: black;
+	font-weight: 800;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	padding: 50px;
+	margin: 30px;
+}
+
+header {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	padding: 1.5em;
+	letter-spacing: 0.25em;
+}
+
+
+ul li {
+	font-size: 20px;
+	text-decoration: none;
+	text-decoration-color: rgba(3,18,102,1.00);
+	align-content: flex-start;
+	list-style-type: none;
+	line-height: 40px;
+}
+
+h4 {
+	font-size: 22px;
+	text-decoration: none;
+	text-decoration-color: rgba(3,18,102,1.00);
+	align-content: flex-start;
+	list-style-type: none;
+	line-height: 20px;
+}
+
+strong {
+	font-size: 24px;
+	text-decoration: none;
+}
+
+.massart {
+	font-size: 60px;
+	text-decoration-color:rgba(17,105,213,1.00);
+	line-height: 40px;
+}
+
+h6 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: rgba(33,102,207,1.00);
+	font-size: 60px;
+	letter-spacing: 0.25em;
+	align-content: center;
+	line-height: 40px;
+}
+
+.top {
+	text-decoration-color: rgba(66,128,255,1.00);
+}
+
+.ba {
+	font-size: 30px;
+}
